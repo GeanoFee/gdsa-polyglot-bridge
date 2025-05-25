@@ -32,7 +32,7 @@ A bridge module that seamlessly connects **Goody's DSA4.1 Core** (gdsa) system w
 
 ## 🤝 Credits
 
-Special thanks to @mclemente for the technical guidance and code assistance that made this perfect integration achievable!
+Special thanks to [@mclemente](https://github.com/mclemente) for the technical guidance and code assistance that made this perfect integration achievable!
 
 ---
 
